@@ -25,6 +25,7 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 - [Git README Golden Example](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-### Shell
+### Shell (Linux)
 - [Why zsh is cooler](https://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Terminator](https://gnometerminator.blogspot.co.id/p/introduction.html), terminal on streoid
