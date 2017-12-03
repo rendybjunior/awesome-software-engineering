@@ -7,6 +7,9 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 ## System
 - [System Design Primer](https://github.com/donnemartin/system-design-primer), learn how to design large-scale systems.
 
+## Architecture
+- [Treehouse, Canned Solutions on GCP](http://gcp.solutions/)
+
 ## Code
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
 
