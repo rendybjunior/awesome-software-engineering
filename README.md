@@ -13,6 +13,7 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 ## Operation
 - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
 - [Incident Handling - On Call Principles](https://increment.com/on-call/)
+- [Human Reliability Checklist](https://www.pythian.com/wp-content/uploads/2015/11/Pythian-FITACER-Human-Reliability-Checklist-2015.pdf)
 
 ## Infrastructure
 - [Docker Getting Started](https://docs.docker.com/get-started/)
