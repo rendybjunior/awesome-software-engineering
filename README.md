@@ -45,3 +45,5 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 - [JVM Heap Size Options](https://docs.oracle.com/cd/E21764_01/web.1111/e13814/jvm_tuning.htm#PERFM150), esp Xmx, Xms
 - [GC Concept and Tuning (G1GC)](http://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
 - [JVM -XX Param](http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html)
+- [jmap](https://docs.oracle.com/javase/7/docs/technotes/tools/share/jmap.html) histo, dump
+- [Full heap dump analysis](https://www.eclipse.org/mat/), detect memory leak, etc
