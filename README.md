@@ -20,8 +20,8 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 
 ## Infrastructure
 - [Docker Getting Started](https://docs.docker.com/get-started/)
-- [rkt, Docker Contender](https://slack-redir.net/link?url=https%3A%2F%2Fmedium.com%2F%40adriaandejonge%2Fmoving-from-docker-to-rkt-310dc9aec938)
 - [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
+- [System Load - what it means](http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages)
 
 ## Development Methodology
 - [Agile Product Development](https://www.atlassian.com/agile), including scrum & kanban
