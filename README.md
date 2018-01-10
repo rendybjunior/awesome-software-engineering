@@ -12,6 +12,11 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 
 ## Code
 - [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)
+### Testing
+- [Why Unit Test](https://zeroturnaround.com/rebellabs/why-your-next-cloud-app-will-probably-suck-without-unit-testing/)
+- [Unit Test Efficiently](https://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/)
+- [Mock it](https://zeroturnaround.com/rebellabs/how-to-mock-up-your-unit-test-environment-to-create-alternate-realities/)
+- [Integration Test](https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/)
 
 ## Operation
 - [Site Reliability Engineering](https://landing.google.com/sre/book.html)
