@@ -52,3 +52,6 @@ A curated list of awesome software engineering resources. Serve as self-reminder
 - [JVM -XX Param](http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html)
 - [jmap](https://docs.oracle.com/javase/7/docs/technotes/tools/share/jmap.html) histo, dump
 - [Full heap dump analysis](https://www.eclipse.org/mat/), detect memory leak, etc
+
+### Python
+- [Project Structure](http://docs.python-guide.org/en/latest/writing/structure/)
